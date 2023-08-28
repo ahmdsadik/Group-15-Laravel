@@ -1,4 +1,7 @@
 <div>
+    <a href="{{ route('pos.create') }}">Add Post</a>
+</div>
+<div>
     <h1>All Posts</h1>
     <hr>
 
